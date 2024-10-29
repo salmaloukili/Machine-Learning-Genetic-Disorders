@@ -9,7 +9,6 @@ For details check the poster and the report.
 - [Data Preprocessing](#data-preprocessing)
 - [Models and Methods](#models-and-methods)
 - [Results](#results)
-- [Future Work](#future-work)
 - [Contributors](#contributors)
 
 ---
@@ -45,8 +44,6 @@ A deep learning approach using Keras and TensorFlow’s Sequential API with mult
 - **Random Forest**: Achieved 58% average F1 score, with stronger performance in detecting Mitochondrial disorders.
 - **Neural Network**: Slightly outperformed Random Forest, with a 60% macro F1 score. However, both models struggled with the Multifactorial disorder class, highlighting the need for better class distinction.
 
-## Future Work
-Improvements include applying advanced feature engineering techniques, exploring dimensionality reduction (e.g., PCA), and implementing more sophisticated approaches for handling class imbalances, such as classifier chaining.
 
 ## Contributors
 - **Salma Loukili**: Neural Network model development, feature engineering, and visualization.
