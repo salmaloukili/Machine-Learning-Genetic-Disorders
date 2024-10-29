@@ -1,6 +1,7 @@
 # Predicting Genetic Disorders: A Machine Learning Approach
 
 This project explores machine learning techniques to predict genetic disorders using a dataset of genetic features. It evaluates the performance of two models: **Random Forest** and **Neural Networks**, with a focus on addressing data imbalances and missing values, aiming to support early diagnosis and precision medicine.
+For details check the poster and the report.
 
 ## Table of Contents
 - [Overview](#overview)
